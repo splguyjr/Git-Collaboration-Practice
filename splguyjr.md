@@ -14,8 +14,8 @@
 ---
 
 ## 📫 연락 방법
-- **이메일:** [splguyjr@naver.com]
-- **GitHub:** [https://github.com/splguyjr]
+- **이메일:** splguyjr@naver.com
+- **GitHub:** https://github.com/splguyjr
 
 ---
 
